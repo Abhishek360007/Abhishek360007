@@ -21,8 +21,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=Abhishek360007&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://github-readme-quotes-bay.vercel.app/quote?theme=radical)
+### ✍️ Words I Code By
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1500&color=7AA2F7&center=true&vCenter=true&width=820&height=60&lines=%E2%80%9CFirst%2C+solve+the+problem.+Then%2C+write+the+code.%E2%80%9D+%E2%80%94+John+Johnson;%E2%80%9CTalk+is+cheap.+Show+me+the+code.%E2%80%9D+%E2%80%94+Linus+Torvalds;%E2%80%9CMake+it+work%2C+make+it+right%2C+make+it+fast.%E2%80%9D+%E2%80%94+Kent+Beck;%E2%80%9CThe+best+way+to+predict+the+future+is+to+invent+it.%E2%80%9D+%E2%80%94+Alan+Kay;%E2%80%9CSimplicity+is+the+soul+of+efficiency.%E2%80%9D+%E2%80%94+Austin+Freeman;%E2%80%9CStay+hungry%2C+stay+foolish.%E2%80%9D+%E2%80%94+Steve+Jobs" alt="Motivational dev quotes" />
+</div>
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=Abhishek360007&color=blueviolet&style=flat-square&label=Profile+Views)
