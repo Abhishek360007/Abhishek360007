@@ -10,13 +10,11 @@
 # 📊 GitHub Stats:
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhishek360007&theme=tokyonight" width="100%" alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhishek360007&theme=tokyonight" height="150" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhishek360007&theme=tokyonight" height="150" alt="Top Languages by Commit" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhishek360007&theme=tokyonight" height="150" alt="Top Languages by Repo" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhishek360007&theme=tokyonight" width="49%" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com/?user=Abhishek360007&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49%" alt="GitHub Streak" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhishek360007&theme=tokyonight" width="49%" alt="Top Languages by Repo" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhishek360007&theme=tokyonight" width="49%" alt="Top Languages by Commit" />
+<img src="https://streak-stats.demolab.com/?user=Abhishek360007&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="150" alt="GitHub Streak" />
 
 </div>
 
