@@ -2,15 +2,18 @@
 
 # 💫 About Me
 
-**Aspiring Software Engineer · Java & Spring Boot Backend Developer**
-
-🔭 Building **REST APIs & CRUD apps** with Spring Boot<br>
-🌱 Learning **Spring Boot, MySQL & advanced DSA in C++**<br>
-👯 Open to collaborate on **open-source Java & backend projects**<br>
-🤝 Seeking help with **DSA & system design**<br>
-💬 Ask me about **C++, Java, OOP, SQL & Spring Boot**<br>
-⚡ Fun fact: I love **coding challenges, cricket & chess** 🏏♟️<br>
-🎯 Goal: Become a **Software Development Engineer** building impactful software
+```java
+public class AbhishekRaj {
+    String role         = "Aspiring SDE · Java & Spring Boot Backend Developer";
+    String[] building   = {"REST APIs", "CRUD Apps", "Spring Boot Projects"};
+    String[] learning   = {"Spring Boot", "MySQL", "Advanced DSA in C++"};
+    String[] askMeAbout = {"C++", "Java", "OOP", "SQL", "Spring Boot"};
+    String collaborate  = "Open-source Java & backend projects";
+    String needHelpWith = "DSA & System Design";
+    String[] hobbies    = {"Coding Challenges", "Cricket 🏏", "Chess ♟️"};
+    String goal         = "Become an SDE building impactful software 🎯";
+}
+```
 
 
 ## 🌐 Socials:
