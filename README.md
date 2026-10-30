@@ -1,8 +1,16 @@
 <div align="center">
 
-# 💫 About Me:
+# 💫 About Me
 
-🔭 I'm currently working on: Building Java Spring Boot projects, including REST APIs and CRUD applications.<br>👯 I'm looking to collaborate on: Open-source Java projects, backend development, and full-stack web applications.<br>🤝 I'm looking for help with: Data Structures & Algorithms, system design fundamentals, and writing clean, optimized code.<br>🌱 I'm currently learning: Java, Spring Boot, MySQL, REST APIs, and advanced DSA in C++.<br>💬 Ask me about: C++, Java, OOP, SQL, Spring Boot, and backend development.<br>⚡ Fun fact: I love solving coding challenges, exploring new technologies, and playing cricket and chess.<br>🎯 My Goal: To become a skilled Software Development Engineer and build impactful software solutions.
+**Aspiring Software Engineer · Java & Spring Boot Backend Developer**
+
+🔭 Building **REST APIs & CRUD apps** with Spring Boot<br>
+🌱 Learning **Spring Boot, MySQL & advanced DSA in C++**<br>
+👯 Open to collaborate on **open-source Java & backend projects**<br>
+🤝 Seeking help with **DSA & system design**<br>
+💬 Ask me about **C++, Java, OOP, SQL & Spring Boot**<br>
+⚡ Fun fact: I love **coding challenges, cricket & chess** 🏏♟️<br>
+🎯 Goal: Become a **Software Development Engineer** building impactful software
 
 
 ## 🌐 Socials:
