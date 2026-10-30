@@ -1,5 +1,3 @@
-<div align="center">
-
 # 💫 About Me
 
 ```java
@@ -15,6 +13,7 @@ public class AbhishekRaj {
 }
 ```
 
+<div align="center">
 
 ## 🌐 Socials:
 
