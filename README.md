@@ -1,4 +1,4 @@
-### 💫 About Me
+<h3 align="center">💫 About Me</h3>
 
 ```java
 public class AbhishekRaj {
